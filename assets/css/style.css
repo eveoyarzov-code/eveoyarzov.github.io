@@ -1,0 +1,17 @@
+body{ 
+    background-color:black ;
+
+}
+header{
+    
+  background-image: url("../img/WhatsApp\ Image\ 2026-04-28\ at\ 11.04.15\ PM.jpeg");
+  background-repeat: repeat-y;
+  background-size: contain; 
+  background-position: left;
+}
+#Mis-trabajos .image-top{
+height: 250px;
+background-repeat: no-repeat;
+background-size: contain;
+background-position: center;
+}
