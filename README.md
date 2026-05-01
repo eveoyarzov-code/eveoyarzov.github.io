@@ -1,4 +1,4 @@
-#h1 eveoyarzov.github.io
+#(h1) eveoyarzov.github.io
 #h2 Mi primer CV 
 #p El siguiente proyecto está diseñado para exponer lo aprendido en un portafolio
 -Agrego Navbar con link a cada desafio
